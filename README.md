@@ -1,5 +1,6 @@
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vivekdesai25&theme=radical&no-frame=false&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=Vivekdesai25&theme=radical&margin-w=10" alt="GitHub Trophies" />
+
 
 
 
